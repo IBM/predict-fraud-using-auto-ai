@@ -98,7 +98,7 @@ Click on New AutoAI experiment and give a name to the experiment.
 
 ![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/def_exp.png)
 
-Click on Associate a Machine Learning service instance to this project and select the Machine Learning service instance and hit reload. If you do not have Machine Learning service instance, then follow the steps to get one.
+Click on Associate a Machine Learning service instance to this project and select the Machine Learning service instance and hit reload. If you do not have Machine Learning service instance, then follow the steps on your screen to get one.
 
 The Create button at the bottom right gets highlighted, go ahead and hit Create.
 
@@ -194,12 +194,13 @@ Go ahead and give it a try on different datasets as per your requirement and rea
 
 Follow the below steps to use Jupyter Notebook for building the model. This is to compare the manual process of model building with the automated process using AutoAI.
 
+Create an account with IBM Cloud and then create a project in Watson Studio. Add the data as an asset. These three steps are given above in detail.
+
 4. [Create the notebook](#4-create-the-notebook)
 5. [Insert the data as dataframe](#5-insert-the-data-as-dataframe)
 6. [Run the notebook](#6-run-the-notebook)
 7. [Analyze the results](#7-analyze-the-results)
 
-Create an account with IBM Cloud and then create a project in Watson Studio. Add the data as an asset. These three steps are given above in detail.
 
 ## 4. Create the notebook
 
