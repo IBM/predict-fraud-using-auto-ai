@@ -194,7 +194,7 @@ Go ahead and give it a try on different datasets as per your requirement and rea
 
 Follow the below steps to use Jupyter Notebook for building the model. This is to compare the manual process of model building with the automated process using AutoAI.
 
-Create an account with IBM Cloud and then create a project in Watson Studio. Add the data as an asset. These three steps are given above in detail.
+`Create an account with IBM Cloud and then create a project in Watson Studio. Add the data as an asset. These three steps are given above in detail.`
 
 4. [Create the notebook](#4-create-the-notebook)
 5. [Insert the data as dataframe](#5-insert-the-data-as-dataframe)
@@ -272,7 +272,7 @@ We can observe that attributes like Married, Applicant Income & Credit history a
 
 ![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/shap_ft_imp.png)
 
-With this, we have come to the end of this code pattern where we can compare the ease of using AutoAI to build predictive models vs creating a new jupyter notebook to build and evaluate predictive models. `There's considerable reduction of time in building and deploying the models using AutoAI because it handles missing values, outliers, feature engineering & hyper parameters optimization on the fly and selects the best algorithm as per the dataset.` If you are a developer who wants to build the model quickly and deploy it for being production ready, then AutoAI is for you which can help in taking decisions faster and gives a detailed overview of the data. 
+With this, we have come to the end of this code pattern where we can compare the ease of using AutoAI to build predictive models vs creating a new jupyter notebook to build and evaluate predictive models. `There's considerable reduction of time in building and deploying the models using AutoAI because it handles missing values, outliers, feature engineering & hyper parameters optimization on the fly and selects the best algorithm as per the dataset.` If you are a developer or a data scientist who wants to build the model quickly and deploy it for being production ready, then AutoAI is for you which will help in taking decisions faster and gives a detailed overview of the attribute relationships within the data. 
 
 ## More to come :
 
