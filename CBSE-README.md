@@ -1,4 +1,4 @@
-# Fraud Prediction using Auto AI
+# Build, Train & Deploy model
 
 In this code pattern, we will demonstrate how to train, build & deploy a predictive model using automated and manual methodology. Students can understand the supervised learning example & play around by following the steps below to complete the model building process which is one of the critical aspects under machine learning. 
 
