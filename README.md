@@ -280,7 +280,7 @@ The integration of Auto AI and Watson Open Scale is currently in progress and wi
 
 ## Related Links :
 
-[Fraud Prediction using skewed data](https://developer.ibm.com/patterns/predicting-fraud-using-skewed-data/)
+[Fraud Prediction using skewed data](https://github.com/IBM/xgboost-smote-detect-fraud)
 
 # Troubleshooting
 
