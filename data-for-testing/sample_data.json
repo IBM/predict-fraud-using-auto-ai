@@ -1,1 +1,1 @@
-{"input_data": [{"fields": ["Gender", "Married", "Dependents", "Education", "Self_Employed", "ApplicantIncome", "CoapplicantIncome", "LoanAmount", "Loan_Term", "Credit_History_Available", "Housing", "Locality"], "values": [[1,0,0,0,0,3748,1668,110,360,1,0,2,0]]}]}
+{"input_data": [{"fields": ["Gender", "Married", "Dependents", "Education", "Self_Employed", "ApplicantIncome", "CoapplicantIncome", "LoanAmount", "Loan_Term", "Credit_History_Available", "Housing", "Locality"], "values": [[1,0,0,0,0,3748,1668,110,360,1,0,2]]}]}
