@@ -164,6 +164,15 @@ In the next step, click on Add Deployment on the right side above `Actions.`
 
 ![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/add_dply.png)
 
+Click the Promote to deployment space.
+Choose an existing deployment space or create a new one.
+Click Add Deployment.
+In the page that opens, fill in the fields:
+Specify a name for the deployment.
+Select “Web service” as the Deployment type.
+Click Save.
+After you save the deployment, click on the deployment name from the left navigation pane to view the deployment details page.
+
 Define the deployment by giving a name and hit `Save.` Note that, the model will get deployed as web service as a ReST API.
 
 ![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/crt_dply.png)
