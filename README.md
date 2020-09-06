@@ -156,28 +156,18 @@ After all the analysis of model performance, its time to select the model for de
 
 ## 9. Deploy to Cloud
 
-The saved model can be found under `Models` under the project in Watson Studio. Click on three dots on the right side below Actions and hit `Deploy.`
+The saved model can be found under `Models` under the project in Watson Studio. Click on three dots on the right side below Actions and hit `Promote.`
+Click the Promote to deployment space. Choose an existing deployment space or create a new one. Click Add Deployment.
 
 ![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/deploy_mdl.png)
 
-In the next step, click on Add Deployment on the right side above `Actions.`
-
-![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/add_dply.png)
-
-Click the Promote to deployment space.
-Choose an existing deployment space or create a new one.
-Click Add Deployment.
-In the page that opens, fill in the fields:
-Specify a name for the deployment.
-Select “Web service” as the Deployment type.
-Click Save.
-After you save the deployment, click on the deployment name from the left navigation pane to view the deployment details page.
+In the page that opens, fill in the fields: Specify a name for the deployment. Select “Web service” as the Deployment type. Click Save.
 
 Define the deployment by giving a name and hit `Save.` Note that, the model will get deployed as web service as a ReST API.
 
 ![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/crt_dply.png)
 
-The deployment will get initialized and the status will show as `ready` when it is complete.
+After you save the deployment, click on the deployment name from the left navigation pane to view the deployment details page. The deployment will get initialized and the status will show as `ready` when it is complete. 
 
 ![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/dply_ready.png)
 
