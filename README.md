@@ -160,6 +160,10 @@ The saved model can be found under `Models` under the project in Watson Studio. 
 Click the Promote to deployment space. Choose an existing deployment space or create a new one. Click Add Deployment.
 
 ![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/deploy_mdl.png)
+![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/deply-space.png)
+![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/crt-dply.png)
+![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/prmt-space.png)
+![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/sel-dply.png)
 
 In the page that opens, fill in the fields: Specify a name for the deployment. Select “Web service” as the Deployment type. Click Save.
 
